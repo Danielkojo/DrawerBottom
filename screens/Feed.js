@@ -5,6 +5,7 @@ export default function Feed(){
     return(
         <SafeAreaView>
             <Text>feed</Text>
+            //76
         </SafeAreaView>
     )
 }
