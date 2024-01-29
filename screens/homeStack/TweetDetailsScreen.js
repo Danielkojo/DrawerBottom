@@ -5,7 +5,7 @@ import { SafeAreaView,Text } from "react-native";
 import { useLayoutEffect } from "react";
 
 import TweetContent from "../../components/TweetContent";
-
+//
 const TweetDetailScreen = () => {
   const navigation = useNavigation();
   useLayoutEffect(()=>{
